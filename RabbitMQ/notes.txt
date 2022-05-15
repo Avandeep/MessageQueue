@@ -1,0 +1,9 @@
+1) We are going to publish messages through spring boot application 
+with the help of rabbit template.
+2)create new class TestController
+3)create POJO (Person) class
+4)create object of Person class into TestController
+5)Create RabbitTemplate object into TestController class and using it, we will publish the
+message to queue using convertAndSend method:-which will convert object into byte array; then publishes to queue.
+6)implement interface serialiazable for Person class.
+7)create consumer using rabbit listener
