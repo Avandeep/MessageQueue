@@ -1,0 +1,4 @@
+1) there is no routing key
+2) it will use headers in pair of key-value
+3) will use x-match=any means OR condition
+4) will use x-match=all means AND condition

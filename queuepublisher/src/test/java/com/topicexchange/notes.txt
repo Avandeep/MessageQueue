@@ -1,0 +1,4 @@
+*.mobile.*:-it should be between. Means, one value before it and one value after it.
+#.ac.#:-any number of works can before and after it.
+#.tv:-any number of words can before it not after.
+*.*.mobile.*:-two words before it and one word after it.
